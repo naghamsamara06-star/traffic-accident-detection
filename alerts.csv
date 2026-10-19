@@ -1,0 +1,4 @@
+
+Time,Camera Location,Accident Detected,Confidence,Alert Status
+10:32:15,Intersection 1,Yes,92%,Pending
+10:45:20,Intersection 2,No,15%,No Alert
