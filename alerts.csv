@@ -1,4 +1,11 @@
+Time,Camera Location,Accident Detected,Confidence,Alert Status,Latitude,Longitude
+10:32:15,Intersection 1,Yes,92%,Pending,31.9539,35.9106
+10:45:20,Intersection 2,No,15%,No Alert,31.9632,35.9304
 
-Time,Camera Location,Accident Detected,Confidence,Alert Status
-10:32:15,Intersection 1,Yes,92%,Pending
-10:45:20,Intersection 2,No,15%,No Alert
+18:45:00,Intersection 3,Yes,96%,Pending,31.9550,35.9200
+
+14:45:00,Intersection 3,Yes,97%,Pending,31.9567,35.9500
+
+19:05:00,Intersection 4,No,10%,No Alert,31.9600,35.9250
+
+
